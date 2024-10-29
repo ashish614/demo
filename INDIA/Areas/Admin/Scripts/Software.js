@@ -150,8 +150,6 @@ $(document).ready(function () {
 
 
 
-    //========== Code for delete========
-
 
     $(document).on('click', '#deleteSoftwareList', function () {  
         Delete($(this).attr('data'));
